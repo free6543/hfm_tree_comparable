@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\buildhfm.obj",
+            "outputs": [
+                "x64\\Debug\\buildhfm.h_B59C3BA0B898B215.ifc.dt.module.json",
+                "x64\\Debug\\buildhfm.h_B59C3BA0B898B215.ifc.dt.d.json",
+                "x64\\Debug\\buildhfm.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "D:\\VS\\hfm_tree_comparable\\hfm_tree_comparable\\buildhfm.h",
+                    "source-path": "d:\\vs\\hfm_tree_comparable\\hfm_tree_comparable\\buildhfm.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
