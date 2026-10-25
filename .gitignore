@@ -1,0 +1,14 @@
+# 忽略程序运行生成的测试文件
+*.bin
+CodePrint*.txt
+TextFile*.txt
+TreePrint*.txt
+
+# 忽略 VS 个人配置和编译临时文件
+*.vcxproj.user
+.vs/
+Debug/
+Release/
+*.obj
+*.exe
+*.pdb
